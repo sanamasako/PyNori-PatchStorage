@@ -1,4 +1,11 @@
 {
-  "active_patches": {},
+  "active_patches": {
+    "patch-12-17-2025.py": {
+      "function": "CheckForPatches()",
+      "description": "Corrected the no patches check (it incorrectly used square brackets when curly brackets were necessary).",
+      "checksum": "sha256:4b6e3f49d5263bc9ec48a2a1ec37502ba73c7613e9ad58e73938aeccbc95939b",
+      "date": "12/17/2025"
+    }
+  },
   "skipped_patches": {}
 }
