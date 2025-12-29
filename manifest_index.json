@@ -1,12 +1,12 @@
 {
   "2.3.0": {
-    "patches": 1,
-    "last_modified": "12-17-2025",
-    "latest_patch": "patch-12-17-2025.py"
+    "patches": 2,
+    "last_modified": "12-28-2025",
+    "latest_patch": "patch-12-28-2025.py"
   },
   "2.4.0": {
     "patches": 0,
-    "last_modified": "12-17-2025",
+    "last_modified": "12-28-2025",
     "latest_patch": null
   }
 }
