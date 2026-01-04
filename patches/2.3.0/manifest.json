@@ -1,16 +1,22 @@
 {
   "active_patches": {
+    "patch-1-4-2026.py": {
+      "function": "gameThing()",
+      "description": "Fix certain Time Sensitive Events not functioning properly.",
+      "checksum": "sha256:d240ca9544ff9e218780c8f5dcbdd74408cc8ebf70cad8891efbbbd1bf0139a4",
+      "date": "04/01/2026"
+    },
     "patch-12-17-2025.py": {
       "function": "CheckForPatches()",
       "description": "(no description provided)",
       "checksum": "sha256:4b6e3f49d5263bc9ec48a2a1ec37502ba73c7613e9ad58e73938aeccbc95939b",
-      "date": "12/28/2025"
+      "date": "01/04/2026"
     },
     "patch-12-28-2025.py": {
       "function": "EnterBattle()",
-      "description": "Fixed(?) Weather causing a crash when entering battle.",
+      "description": "(no description provided)",
       "checksum": "sha256:5d778bf790a9924016f7b03195dc41bb4b5d537eb6ff5f6220fb11280c7ba184",
-      "date": "12/28/2025"
+      "date": "01/04/2026"
     }
   },
   "skipped_patches": {}
