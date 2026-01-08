@@ -1,10 +1,10 @@
 {
   "active_patches": {
-    "patch-1-7-2026.py": {
+    "patch-1-8-2026.py": {
       "function": "PreStartup()",
-      "description": "Update Client ID so rich presence works again. THIS PATCH WILL NOT WORK ON v2.3.0 SO DON'T TRY. THIS IS MEANT FOR v2.3.1.",
-      "checksum": "sha256:9ce8c04556e71d53661fa75f30a3d36789657de8254fe928880ed0c44f0d75c5",
-      "date": "07/01/2026"
+      "description": "Fix RPC variable not being in the global scope. Rich Presence should ACTUALLY work now.",
+      "checksum": "sha256:74198d9ccdd45c94a1ffc663bc19d78c1b4396c7479a5b3d266851e74602392a",
+      "date": "08/01/2026"
     },
     "patch-1-4-2026.py": {
       "function": "gameThing()",
@@ -16,14 +16,21 @@
       "function": "CheckForPatches()",
       "description": "(no description provided)",
       "checksum": "sha256:4b6e3f49d5263bc9ec48a2a1ec37502ba73c7613e9ad58e73938aeccbc95939b",
-      "date": "01/07/2026"
+      "date": "01/08/2026"
     },
     "patch-12-28-2025.py": {
       "function": "EnterBattle()",
       "description": "(no description provided)",
       "checksum": "sha256:5d778bf790a9924016f7b03195dc41bb4b5d537eb6ff5f6220fb11280c7ba184",
-      "date": "01/07/2026"
+      "date": "01/08/2026"
     }
   },
-  "skipped_patches": {}
+  "skipped_patches": {
+    "patch-1-7-2026.py": {
+      "function": "PreStartup()",
+      "description": "(no description provided)",
+      "checksum": "sha256:9ce8c04556e71d53661fa75f30a3d36789657de8254fe928880ed0c44f0d75c5",
+      "date": "07/01/2026"
+    }
+  }
 }
