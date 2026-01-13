@@ -8,5 +8,10 @@
     "patches": 0,
     "last_modified": "01-09-2026",
     "latest_patch": null
+  },
+  "2.5.0": {
+    "patches": 0,
+    "last_modified": "01-12-2026",
+    "latest_patch": null
   }
 }
