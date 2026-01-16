@@ -18,6 +18,12 @@
       "checksum": "sha256:d240ca9544ff9e218780c8f5dcbdd74408cc8ebf70cad8891efbbbd1bf0139a4",
       "date": "04/01/2026"
     },
+    "patch-1-15-2026.py": {
+      "function": "FakeDiffChanger()",
+      "description": "Fix incomplete line of dialogue in Shadorako's difficulty changer.",
+      "checksum": "sha256:3e61bffe0b26ab36303afdbbea96806dc0234091dbfdef1aaa272593a26f04c3",
+      "date": "01/15/2026"
+    },
     "patch-12-17-2025.py": {
       "function": "CheckForPatches()",
       "description": "(no description provided)",
