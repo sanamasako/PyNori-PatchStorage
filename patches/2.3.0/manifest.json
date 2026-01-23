@@ -24,6 +24,12 @@
       "checksum": "sha256:3e61bffe0b26ab36303afdbbea96806dc0234091dbfdef1aaa272593a26f04c3",
       "date": "01/22/2026"
     },
+    "patch-1-22-2026.py": {
+      "function": "OptionsMenu()",
+      "description": "Add anti-crash measure if the player tries to open the Options Menu after attempting to access an invalid path.",
+      "checksum": "sha256:9f7f0f3cf2a084514a9a02f188a82fe62ed4dfa65f64c1ec2e9c0fdf20e4ce43",
+      "date": "01/22/2026"
+    },
     "patch-12-17-2025.py": {
       "function": "CheckForPatches()",
       "description": "(no description provided)",
