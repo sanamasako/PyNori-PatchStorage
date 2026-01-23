@@ -20,15 +20,15 @@
     },
     "patch-1-15-2026.py": {
       "function": "FakeDiffChanger()",
-      "description": "Fix incomplete line of dialogue in Shadorako's difficulty changer.",
+      "description": "(no description provided)",
       "checksum": "sha256:3e61bffe0b26ab36303afdbbea96806dc0234091dbfdef1aaa272593a26f04c3",
-      "date": "01/15/2026"
+      "date": "01/22/2026"
     },
     "patch-12-17-2025.py": {
       "function": "CheckForPatches()",
       "description": "(no description provided)",
       "checksum": "sha256:4b6e3f49d5263bc9ec48a2a1ec37502ba73c7613e9ad58e73938aeccbc95939b",
-      "date": "01/15/2026"
+      "date": "01/22/2026"
     }
   },
   "skipped_patches": {
@@ -42,7 +42,7 @@
       "function": "EnterBattle()",
       "description": "(no description provided)",
       "checksum": "sha256:5d778bf790a9924016f7b03195dc41bb4b5d537eb6ff5f6220fb11280c7ba184",
-      "date": "01/15/2026"
+      "date": "01/22/2026"
     }
   }
 }
