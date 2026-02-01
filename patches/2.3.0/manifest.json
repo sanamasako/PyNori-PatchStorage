@@ -22,19 +22,25 @@
       "function": "FakeDiffChanger()",
       "description": "(no description provided)",
       "checksum": "sha256:3e61bffe0b26ab36303afdbbea96806dc0234091dbfdef1aaa272593a26f04c3",
-      "date": "01/22/2026"
+      "date": "02/01/2026"
     },
     "patch-1-22-2026.py": {
       "function": "OptionsMenu()",
-      "description": "Add anti-crash measure if the player tries to open the Options Menu after attempting to access an invalid path.",
+      "description": "(no description provided)",
       "checksum": "sha256:9f7f0f3cf2a084514a9a02f188a82fe62ed4dfa65f64c1ec2e9c0fdf20e4ce43",
-      "date": "01/22/2026"
+      "date": "02/01/2026"
     },
     "patch-12-17-2025.py": {
       "function": "CheckForPatches()",
       "description": "(no description provided)",
       "checksum": "sha256:4b6e3f49d5263bc9ec48a2a1ec37502ba73c7613e9ad58e73938aeccbc95939b",
-      "date": "01/22/2026"
+      "date": "02/01/2026"
+    },
+    "patch-2-1-2026.py": {
+      "function": "MultisaveHelper()",
+      "description": "Fixed the atrocious Multisave Helper code. The new code can now PROPERLY tell the difference between an existent and nonexistent path.",
+      "checksum": "sha256:f852725584f2de10093111dc73f65d815b55f21a02501b97bffea7cba8b9d649",
+      "date": "01/02/2026"
     }
   },
   "skipped_patches": {
@@ -48,7 +54,7 @@
       "function": "EnterBattle()",
       "description": "(no description provided)",
       "checksum": "sha256:5d778bf790a9924016f7b03195dc41bb4b5d537eb6ff5f6220fb11280c7ba184",
-      "date": "01/22/2026"
+      "date": "02/01/2026"
     }
   }
 }
