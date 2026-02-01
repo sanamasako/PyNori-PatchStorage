@@ -11,6 +11,12 @@
       "description": "(no description provided)",
       "checksum": "sha256:569566e9c2a9c3ab22c80c05f91544acb23d02bde1f2420cf357d45e4eac743a",
       "date": "02/01/2026"
+    },
+    "patch-2-1-2026.py": {
+      "function": "MultisaveHelper()",
+      "description": "Fixed the atrocious Multisave Helper code. The new code can now PROPERLY tell the difference between an existent and nonexistent path.",
+      "checksum": "sha256:f852725584f2de10093111dc73f65d815b55f21a02501b97bffea7cba8b9d649",
+      "date": "01/02/2026"
     }
   },
   "skipped_patches": {}
