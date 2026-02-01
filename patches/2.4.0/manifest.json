@@ -4,13 +4,13 @@
       "function": "FakeDiffChanger()",
       "description": "(no description provided)",
       "checksum": "sha256:3e61bffe0b26ab36303afdbbea96806dc0234091dbfdef1aaa272593a26f04c3",
-      "date": "01/22/2026"
+      "date": "02/01/2026"
     },
     "patch-1-22-2026.py": {
       "function": "OptionsMenu()",
-      "description": "Add anti-crash measure if the player tries to open the Options Menu after attempting to access an invalid path.",
+      "description": "(no description provided)",
       "checksum": "sha256:569566e9c2a9c3ab22c80c05f91544acb23d02bde1f2420cf357d45e4eac743a",
-      "date": "01/22/2026"
+      "date": "02/01/2026"
     }
   },
   "skipped_patches": {}
