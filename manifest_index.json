@@ -1,17 +1,17 @@
 {
   "2.3.0": {
     "patches": 7,
-    "last_modified": "02-01-2026",
+    "last_modified": "02-12-2026",
     "latest_patch": "patch-1-9-2026.py"
   },
   "2.4.0": {
     "patches": 3,
-    "last_modified": "02-01-2026",
+    "last_modified": "02-12-2026",
     "latest_patch": "patch-1-15-2026.py"
   },
   "2.5.0": {
-    "patches": 0,
-    "last_modified": "02-01-2026",
-    "latest_patch": null
+    "patches": 1,
+    "last_modified": "02-12-2026",
+    "latest_patch": "patch-2-12-2026.py"
   }
 }
