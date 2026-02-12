@@ -1,4 +1,11 @@
 {
-  "active_patches": {},
+  "active_patches": {
+    "patch-2-12-2026.py": {
+      "function": "newGame()",
+      "description": "Fix Max Vocal Points being halved when Tryhard Mode is not active.",
+      "checksum": "sha256:c2b35ea02a691489bc0fd67a6d33b4a3bddf3a82aed7be8ccea5b57b49292424",
+      "date": "12/02/2026"
+    }
+  },
   "skipped_patches": {}
 }
