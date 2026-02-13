@@ -2,9 +2,15 @@
   "active_patches": {
     "patch-2-12-2026.py": {
       "function": "newGame()",
-      "description": "Fix Max Vocal Points being halved when Tryhard Mode is not active.",
+      "description": "(no description provided)",
       "checksum": "sha256:c2b35ea02a691489bc0fd67a6d33b4a3bddf3a82aed7be8ccea5b57b49292424",
       "date": "12/02/2026"
+    },
+    "patch-2-13-2026.py": {
+      "function": "SkipTurn()",
+      "description": "Removed DamageOut logic from SkipTurn(); it was not supposed to be there.",
+      "checksum": "sha256:99be0bca3076b8f18d10a74d709a9ba7730fcb08b4611c2ccd64215550bde98f",
+      "date": "02/13/2026"
     }
   },
   "skipped_patches": {}
