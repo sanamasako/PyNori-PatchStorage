@@ -8,9 +8,15 @@
     },
     "patch-2-13-2026.py": {
       "function": "SkipTurn()",
-      "description": "Removed DamageOut logic from SkipTurn(); it was not supposed to be there.",
+      "description": "(no description provided)",
       "checksum": "sha256:99be0bca3076b8f18d10a74d709a9ba7730fcb08b4611c2ccd64215550bde98f",
-      "date": "02/13/2026"
+      "date": "02/22/2026"
+    },
+    "patch-2-22-2026.py": {
+      "function": "EnterBattle()",
+      "description": "Fixed TestPowerscale call passing arguments in the wrong order (and miraculously not crashing the game).",
+      "checksum": "sha256:90f9f7a8704a1716f3b0b40bbb956f2756780d339665438919c7ab7171109063",
+      "date": "02/22/2026"
     }
   },
   "skipped_patches": {}
