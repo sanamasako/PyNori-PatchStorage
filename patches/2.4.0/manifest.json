@@ -4,13 +4,19 @@
       "function": "FakeDiffChanger()",
       "description": "(no description provided)",
       "checksum": "sha256:3e61bffe0b26ab36303afdbbea96806dc0234091dbfdef1aaa272593a26f04c3",
-      "date": "02/12/2026"
+      "date": "03/15/2026"
     },
     "patch-1-22-2026.py": {
       "function": "OptionsMenu()",
       "description": "(no description provided)",
       "checksum": "sha256:569566e9c2a9c3ab22c80c05f91544acb23d02bde1f2420cf357d45e4eac743a",
-      "date": "02/12/2026"
+      "date": "03/15/2026"
+    },
+    "patch-3-15-2026.py": {
+      "function": "FightEnem()",
+      "description": "Nerfed Shadorako for Traditional route runs so it's easier to defeat her if the party lacks items.",
+      "checksum": "sha256:5b8b897ac8d90fc7b50d62163c07aa5b4e659a1c5cf47b4bd2221ed418199da0",
+      "date": "03/15/2026"
     },
     "patch-2-1-2026.py": {
       "function": "MultisaveHelper()",
