@@ -1,22 +1,22 @@
 {
   "2.3.0": {
     "patches": 8,
-    "last_modified": "03-15-2026",
+    "last_modified": "04-01-2026",
     "latest_patch": "patch-1-9-2026.py"
   },
   "2.4.0": {
     "patches": 4,
-    "last_modified": "03-15-2026",
+    "last_modified": "04-01-2026",
     "latest_patch": "patch-1-15-2026.py"
   },
   "2.5.0": {
     "patches": 4,
-    "last_modified": "03-15-2026",
+    "last_modified": "04-01-2026",
     "latest_patch": "patch-2-12-2026.py"
   },
   "2.6.0": {
-    "patches": 1,
-    "last_modified": "03-15-2026",
+    "patches": 2,
+    "last_modified": "04-01-2026",
     "latest_patch": "patch-3-15-2026.py"
   }
 }
