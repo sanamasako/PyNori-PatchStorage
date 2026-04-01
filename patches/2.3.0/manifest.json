@@ -12,35 +12,35 @@
       "checksum": "sha256:74198d9ccdd45c94a1ffc663bc19d78c1b4396c7479a5b3d266851e74602392a",
       "date": "08/01/2026"
     },
+    "patch-1-15-2026.py": {
+      "function": "FakeDiffChanger()",
+      "description": "(no description provided)",
+      "checksum": "sha256:3e61bffe0b26ab36303afdbbea96806dc0234091dbfdef1aaa272593a26f04c3",
+      "date": "04/01/2026"
+    },
+    "patch-1-22-2026.py": {
+      "function": "OptionsMenu()",
+      "description": "(no description provided)",
+      "checksum": "sha256:9f7f0f3cf2a084514a9a02f188a82fe62ed4dfa65f64c1ec2e9c0fdf20e4ce43",
+      "date": "04/01/2026"
+    },
     "patch-1-4-2026.py": {
       "function": "gameThing()",
       "description": "(no description provided)",
       "checksum": "sha256:d240ca9544ff9e218780c8f5dcbdd74408cc8ebf70cad8891efbbbd1bf0139a4",
       "date": "04/01/2026"
     },
-    "patch-1-15-2026.py": {
-      "function": "FakeDiffChanger()",
-      "description": "(no description provided)",
-      "checksum": "sha256:3e61bffe0b26ab36303afdbbea96806dc0234091dbfdef1aaa272593a26f04c3",
-      "date": "03/15/2026"
-    },
-    "patch-1-22-2026.py": {
-      "function": "OptionsMenu()",
-      "description": "(no description provided)",
-      "checksum": "sha256:9f7f0f3cf2a084514a9a02f188a82fe62ed4dfa65f64c1ec2e9c0fdf20e4ce43",
-      "date": "03/15/2026"
-    },
     "patch-12-17-2025.py": {
       "function": "CheckForPatches()",
       "description": "(no description provided)",
       "checksum": "sha256:4b6e3f49d5263bc9ec48a2a1ec37502ba73c7613e9ad58e73938aeccbc95939b",
-      "date": "03/15/2026"
+      "date": "04/01/2026"
     },
     "patch-3-15-2026.py": {
       "function": "FightEnem()",
-      "description": "Nerfed Shadorako for Traditional route runs so it's easier to defeat her if the party lacks items.",
+      "description": "(no description provided)",
       "checksum": "sha256:bf5b4234058bb360b7dec60c5f2c7a1c6733d20a7a6fceaaa1d4211eb37fb9f0",
-      "date": "03/15/2026"
+      "date": "04/01/2026"
     },
     "patch-2-1-2026.py": {
       "function": "MultisaveHelper()",
@@ -60,7 +60,7 @@
       "function": "EnterBattle()",
       "description": "(no description provided)",
       "checksum": "sha256:5d778bf790a9924016f7b03195dc41bb4b5d537eb6ff5f6220fb11280c7ba184",
-      "date": "03/15/2026"
+      "date": "04/01/2026"
     }
   }
 }
