@@ -2,9 +2,15 @@
   "active_patches": {
     "patch-3-15-2026.py": {
       "function": "FightEnem()",
-      "description": "Nerfed Shadorako for Traditional route runs so it's easier to defeat her if the party lacks items.",
+      "description": "(no description provided)",
       "checksum": "sha256:cabc31ebbdb43a56807edd45ef2656b3888ae85d9d81cb8ed5181ba018a226c0",
-      "date": "03/15/2026"
+      "date": "04/01/2026"
+    },
+    "patch-4-1-2026.py": {
+      "function": "TitleScreen()",
+      "description": "Fix April Fool's prompt crashing the game.",
+      "checksum": "sha256:dd8904152a1630dc1021e2fbb0ed200deda6463c45182cbc306612a0cba1e7d3",
+      "date": "01/04/2026"
     }
   },
   "skipped_patches": {}
