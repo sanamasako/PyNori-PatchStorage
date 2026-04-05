@@ -6,23 +6,29 @@
       "checksum": "sha256:c2b35ea02a691489bc0fd67a6d33b4a3bddf3a82aed7be8ccea5b57b49292424",
       "date": "12/02/2026"
     },
+    "patch-4-5-2026.py": {
+      "function": "Interaction()",
+      "description": "Fix Game Over for April Fool's event being falsely triggered when HP is greater than 0 after an interaction.",
+      "checksum": "sha256:2057a913b9b063621c2770b4a368fde7c3e484efadb37b0437031ec5b783ddb2",
+      "date": "05/04/2026"
+    },
     "patch-2-13-2026.py": {
       "function": "SkipTurn()",
       "description": "(no description provided)",
       "checksum": "sha256:99be0bca3076b8f18d10a74d709a9ba7730fcb08b4611c2ccd64215550bde98f",
-      "date": "04/01/2026"
+      "date": "04/05/2026"
     },
     "patch-2-22-2026.py": {
       "function": "EnterBattle()",
       "description": "(no description provided)",
       "checksum": "sha256:90f9f7a8704a1716f3b0b40bbb956f2756780d339665438919c7ab7171109063",
-      "date": "04/01/2026"
+      "date": "04/05/2026"
     },
     "patch-3-15-2026.py": {
       "function": "FightEnem()",
       "description": "(no description provided)",
       "checksum": "sha256:cabc31ebbdb43a56807edd45ef2656b3888ae85d9d81cb8ed5181ba018a226c0",
-      "date": "04/01/2026"
+      "date": "04/05/2026"
     }
   },
   "skipped_patches": {}
