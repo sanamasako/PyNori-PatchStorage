@@ -1,8 +1,14 @@
 {
   "active_patches": {
+    "patch-4-11-2026.py": {
+      "function": "BuildWeather()",
+      "description": "Optimised weather building code so it only runs once per hour. CompareHours() backported from v2.7.0 thanks to function nesting.",
+      "checksum": "sha256:0a897a1668de48190abb550c9fe937b3b683a01994bdf361f68bb4fe6ccda19e",
+      "date": "11/04/2026"
+    },
     "patch-4-5-2026.py": {
       "function": "Interaction()",
-      "description": "Fix Game Over for April Fool's event being falsely triggered when HP is greater than 0 after an interaction.",
+      "description": "(no description provided)",
       "checksum": "sha256:2057a913b9b063621c2770b4a368fde7c3e484efadb37b0437031ec5b783ddb2",
       "date": "05/04/2026"
     },
@@ -10,7 +16,7 @@
       "function": "FightEnem()",
       "description": "(no description provided)",
       "checksum": "sha256:cabc31ebbdb43a56807edd45ef2656b3888ae85d9d81cb8ed5181ba018a226c0",
-      "date": "04/05/2026"
+      "date": "04/11/2026"
     },
     "patch-4-1-2026.py": {
       "function": "TitleScreen()",
