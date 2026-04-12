@@ -8,7 +8,7 @@
     },
     "patch-4-11-2026.py": {
       "function": "BuildWeather()",
-      "description": "Optimised weather building code so it only runs once per hour. CompareHours() backported from v2.7.0 thanks to function nesting.",
+      "description": "(no description provided)",
       "checksum": "sha256:0a897a1668de48190abb550c9fe937b3b683a01994bdf361f68bb4fe6ccda19e",
       "date": "11/04/2026"
     },
@@ -22,19 +22,19 @@
       "function": "SkipTurn()",
       "description": "(no description provided)",
       "checksum": "sha256:99be0bca3076b8f18d10a74d709a9ba7730fcb08b4611c2ccd64215550bde98f",
-      "date": "04/11/2026"
+      "date": "04/12/2026"
     },
     "patch-2-22-2026.py": {
       "function": "EnterBattle()",
       "description": "(no description provided)",
       "checksum": "sha256:90f9f7a8704a1716f3b0b40bbb956f2756780d339665438919c7ab7171109063",
-      "date": "04/11/2026"
+      "date": "04/12/2026"
     },
     "patch-3-15-2026.py": {
       "function": "FightEnem()",
       "description": "(no description provided)",
       "checksum": "sha256:cabc31ebbdb43a56807edd45ef2656b3888ae85d9d81cb8ed5181ba018a226c0",
-      "date": "04/11/2026"
+      "date": "04/12/2026"
     }
   },
   "skipped_patches": {}
