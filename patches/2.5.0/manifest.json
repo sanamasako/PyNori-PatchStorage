@@ -1,5 +1,11 @@
 {
   "active_patches": {
+    "patch-4-12-2026.py": {
+      "function": "fakeGame()",
+      "description": "Fixed Lightheadedness not being initialised when starting the April Fool's event.",
+      "checksum": "sha256:c3a9746c297336f7bdd5d81bec97e995c7e8a95d188eeae60cbc5507f3c29fd3",
+      "date": "12/04/2026"
+    },
     "patch-2-12-2026.py": {
       "function": "newGame()",
       "description": "(no description provided)",
