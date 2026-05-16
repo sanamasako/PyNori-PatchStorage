@@ -6,12 +6,6 @@
       "checksum": "sha256:c3a9746c297336f7bdd5d81bec97e995c7e8a95d188eeae60cbc5507f3c29fd3",
       "date": "12/04/2026"
     },
-    "patch-4-11-2026.py": {
-      "function": "BuildWeather()",
-      "description": "(no description provided)",
-      "checksum": "sha256:fcae51c9282d86d6e2176ae214602c6e941fcaa150433518715597e4c087b6e6",
-      "date": "11/04/2026"
-    },
     "patch-1-9-2026.py": {
       "function": "EnterBattle()",
       "description": "(no description provided)",
@@ -59,6 +53,12 @@
       "description": "(no description provided)",
       "checksum": "sha256:f852725584f2de10093111dc73f65d815b55f21a02501b97bffea7cba8b9d649",
       "date": "01/02/2026"
+    },
+    "patch-5-16-2026.py": {
+      "function": "BuildWeather()",
+      "description": "Fixed(?) hour not defined error when trying to check if weather data was built within the past hour.",
+      "checksum": "sha256:c65bebccbee603e77da10d3463a65e7b6083fee968becdc6b7048bd01e3cb08e",
+      "date": "05/16/2026"
     }
   },
   "skipped_patches": {
@@ -73,6 +73,12 @@
       "description": "(no description provided)",
       "checksum": "sha256:5d778bf790a9924016f7b03195dc41bb4b5d537eb6ff5f6220fb11280c7ba184",
       "date": "04/12/2026"
+    },
+    "patch-4-11-2026.py": {
+      "function": "BuildWeather()",
+      "description": "(no description provided)",
+      "checksum": "sha256:fcae51c9282d86d6e2176ae214602c6e941fcaa150433518715597e4c087b6e6",
+      "date": "11/04/2026"
     }
   }
 }
