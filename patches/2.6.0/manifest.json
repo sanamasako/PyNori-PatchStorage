@@ -24,19 +24,25 @@
       "checksum": "sha256:dd8904152a1630dc1021e2fbb0ed200deda6463c45182cbc306612a0cba1e7d3",
       "date": "01/04/2026"
     },
-    "patch-5-16-2026.py": {
-      "function": "BuildWeather()",
-      "description": "Fixed(?) hour not defined error when trying to check if weather data was built within the past hour.",
-      "checksum": "sha256:3771b6b86403432bc7de6c5c0054e373ff9b38a05d7cca8f17f810f77aa1f7f6",
-      "date": "05/16/2026"
-    }
-  },
-  "skipped_patches": {
     "patch-4-11-2026.py": {
       "function": "BuildWeather()",
       "description": "(no description provided)",
       "checksum": "sha256:0a897a1668de48190abb550c9fe937b3b683a01994bdf361f68bb4fe6ccda19e",
       "date": "11/04/2026"
+    },
+    "patch-5-23-2026.py": {
+      "function": "ProgressDestroyer()",
+      "description": "Fixed Demotion logic not working in Crystalline Oceanfront and Archlekia.",
+      "checksum": "sha256:8ccb5a1ef5931cee7921b4d0f0cda4509ea931b6295fb4b1399e1c46d9358449",
+      "date": "05/23/2026"
+    }
+  },
+  "skipped_patches": {
+    "patch-5-16-2026.py": {
+      "function": "BuildWeather()",
+      "description": "Fixed(?) hour not defined error when trying to check if weather data was built within the past hour.",
+      "checksum": "sha256:3771b6b86403432bc7de6c5c0054e373ff9b38a05d7cca8f17f810f77aa1f7f6",
+      "date": "05/16/2026"
     }
   }
 }
