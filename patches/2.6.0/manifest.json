@@ -35,12 +35,6 @@
       "description": "Fixed Demotion logic not working in Crystalline Oceanfront and Archlekia.",
       "checksum": "sha256:8ccb5a1ef5931cee7921b4d0f0cda4509ea931b6295fb4b1399e1c46d9358449",
       "date": "05/23/2026"
-    },
-    "patch-5-24-2026.py": {
-      "function": "Unknown",
-      "description": "Fixed(?) Weather not defined error when trying to build weather.",
-      "checksum": "sha256:db36ed95b0fd61a3d6194edb5494fa9657913eeffcf0dcf6dee28e18fce79af0",
-      "date": "05/24/2026"
     }
   },
   "skipped_patches": {
