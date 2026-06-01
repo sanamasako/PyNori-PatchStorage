@@ -30,17 +30,17 @@
       "checksum": "sha256:f852725584f2de10093111dc73f65d815b55f21a02501b97bffea7cba8b9d649",
       "date": "01/02/2026"
     },
-    "patch-5-23-2026.py": {
-      "function": "ProgressDestroyer()",
-      "description": "Fixed Demotion logic not working in Crystalline Oceanfront and Archlekia.",
-      "checksum": "sha256:8ccb5a1ef5931cee7921b4d0f0cda4509ea931b6295fb4b1399e1c46d9358449",
-      "date": "05/23/2026"
-    },
-    "patch-5-24-2026.py": {
+    "patch-4-11-2026.py": {
       "function": "BuildWeather()",
-      "description": "Fixed(?) Weather not defined error when trying to build weather.",
-      "checksum": "sha256:3d838d9ba283116b39152ed757d1b09d568337c2c13d4835f754f0025ad1cadc",
-      "date": "05/24/2026"
+      "description": "(no description provided)",
+      "checksum": "sha256:fcae51c9282d86d6e2176ae214602c6e941fcaa150433518715597e4c087b6e6",
+      "date": "11/04/2026"
+    },
+    "patch-5-31-2026.py": {
+      "function": "ProgressDestroyer()",
+      "description": "Removed accidental inclusion of DebugPrint() when 2.6.0 and older do not support it.",
+      "checksum": "sha256:4ad3fd912bc005907ce310f20fea9a55ae3769779a499b9442d3f44d7931c80e",
+      "date": "05/31/2026"
     }
   },
   "skipped_patches": {
@@ -50,11 +50,17 @@
       "checksum": "sha256:c65bebccbee603e77da10d3463a65e7b6083fee968becdc6b7048bd01e3cb08e",
       "date": "05/23/2026"
     },
-    "patch-4-11-2026.py": {
+    "patch-5-24-2026.py": {
       "function": "BuildWeather()",
-      "description": "(no description provided)",
-      "checksum": "sha256:fcae51c9282d86d6e2176ae214602c6e941fcaa150433518715597e4c087b6e6",
-      "date": "11/04/2026"
+      "description": "Fixed(?) Weather not defined error when trying to build weather.",
+      "checksum": "sha256:3d838d9ba283116b39152ed757d1b09d568337c2c13d4835f754f0025ad1cadc",
+      "date": "05/24/2026"
+    },
+    "patch-5-23-2026.py": {
+      "function": "ProgressDestroyer()",
+      "description": "Fixed Demotion logic not working in Crystalline Oceanfront and Archlekia.",
+      "checksum": "sha256:8ccb5a1ef5931cee7921b4d0f0cda4509ea931b6295fb4b1399e1c46d9358449",
+      "date": "05/23/2026"
     }
   }
 }
