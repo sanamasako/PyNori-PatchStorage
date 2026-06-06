@@ -41,6 +41,12 @@
       "description": "Removed accidental inclusion of DebugPrint() when 2.6.0 and older do not support it.",
       "checksum": "sha256:4ad3fd912bc005907ce310f20fea9a55ae3769779a499b9442d3f44d7931c80e",
       "date": "05/31/2026"
+    },
+    "patch-6-5-2026.py": {
+      "function": "P3Menu()",
+      "description": "Fixed wonky power check for Shadorako Phase 3. The power check should now work as intended. (Does not apply to Impossible Mode, as the bug is not present there.)",
+      "checksum": "sha256:8be34bd6285739f0652e04ed9192dde641a77ebd3e74e85a7f410e322d82a795",
+      "date": "05/06/2026"
     }
   },
   "skipped_patches": {
