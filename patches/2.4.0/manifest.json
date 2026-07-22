@@ -47,6 +47,13 @@
       "description": "Fixed wonky power check for Shadorako Phase 3. The power check should now work as intended. (Does not apply to Impossible Mode, as the bug is not present there.)",
       "checksum": "sha256:8be34bd6285739f0652e04ed9192dde641a77ebd3e74e85a7f410e322d82a795",
       "date": "05/06/2026"
+    },
+    "patch-7-22-2026.py": {
+      "function": "Uncorrupt()",
+      "description": "Fixed weird duplicate of hard key appearing in Progress section of Pinori.ini.",
+      "checksum": "sha256:ba40405e22ec62f5c2c6bebde5b6cd2a9dad543ec03044e95e5eb4e0889a6bc2",
+      "date": "07/22/2026",
+      "light": false
     }
   },
   "skipped_patches": {
