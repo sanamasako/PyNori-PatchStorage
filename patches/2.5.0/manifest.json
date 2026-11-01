@@ -60,6 +60,13 @@
       "checksum": "sha256:ba40405e22ec62f5c2c6bebde5b6cd2a9dad543ec03044e95e5eb4e0889a6bc2",
       "date": "07/22/2026",
       "light": false
+    },
+    "patch-11-1-2026.py": {
+      "function": "ItemUsageMoment()",
+      "description": "Fixed(?) weird behaviour with slots beyond 5 during the Halloween Event.",
+      "checksum": "sha256:a9e76b1bb0adac29f8657565e0b902fbca2f3aa6fb81cca33d555aa61e2e083c",
+      "date": "01/11/2026",
+      "light": false
     }
   },
   "skipped_patches": {
