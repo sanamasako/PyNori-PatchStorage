@@ -15,8 +15,8 @@
     "latest_patch": "patch-11-1-2026.py"
   },
   "2.6.0": {
-    "patches": 9,
-    "last_modified": "11-01-2026",
-    "latest_patch": "patch-11-1-2026.py"
+    "patches": 10,
+    "last_modified": "11-04-2026",
+    "latest_patch": "patch-11-4-2026.py"
   }
 }
