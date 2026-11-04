@@ -67,6 +67,13 @@
       "checksum": "sha256:a9e76b1bb0adac29f8657565e0b902fbca2f3aa6fb81cca33d555aa61e2e083c",
       "date": "01/11/2026",
       "light": false
+    },
+    "patch-11-4-2026.py": {
+      "function": "Weending()",
+      "description": "Fixed(?) issue where CurE wouldn't be immediately set up for the Pumpking/Pumpqueen battle, which would confuse the interaction system.",
+      "checksum": "sha256:333b825a65b182358fed59d6be78321b69bbbb71e49ea670bb0f44f240082604",
+      "date": "04/11/2026",
+      "light": false
     }
   },
   "skipped_patches": {
