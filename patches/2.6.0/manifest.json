@@ -12,12 +12,6 @@
       "checksum": "sha256:2057a913b9b063621c2770b4a368fde7c3e484efadb37b0437031ec5b783ddb2",
       "date": "05/04/2026"
     },
-    "patch-3-15-2026.py": {
-      "function": "FightEnem()",
-      "description": "(no description provided)",
-      "checksum": "sha256:cabc31ebbdb43a56807edd45ef2656b3888ae85d9d81cb8ed5181ba018a226c0",
-      "date": "04/12/2026"
-    },
     "patch-4-1-2026.py": {
       "function": "TitleScreen()",
       "description": "(no description provided)",
@@ -62,6 +56,13 @@
       "checksum": "sha256:333b825a65b182358fed59d6be78321b69bbbb71e49ea670bb0f44f240082604",
       "date": "04/11/2026",
       "light": false
+    },
+    "patch-11-11-2026.py": {
+      "function": "FightEnem()",
+      "description": "Fixed prayer state not resetting after first use during Pumpqueen/Pumpking battle.",
+      "checksum": "sha256:6fe8800fd1b1a7c69a79934ffe39ba53945b9e952deba0c8e3860a4438a2f71b",
+      "date": "11/11/2026",
+      "light": false
     }
   },
   "skipped_patches": {
@@ -82,6 +83,12 @@
       "description": "Fixed Demotion logic not working in Crystalline Oceanfront and Archlekia.",
       "checksum": "sha256:8ccb5a1ef5931cee7921b4d0f0cda4509ea931b6295fb4b1399e1c46d9358449",
       "date": "05/23/2026"
+    },
+    "patch-3-15-2026.py": {
+      "function": "FightEnem()",
+      "description": "(no description provided)",
+      "checksum": "sha256:cabc31ebbdb43a56807edd45ef2656b3888ae85d9d81cb8ed5181ba018a226c0",
+      "date": "04/12/2026"
     }
   }
 }
